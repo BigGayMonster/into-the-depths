@@ -11,3 +11,7 @@ A post-apocalyptic psychedelic kinky transformation adventure game
 - Build - <https://github.com/thedodd/trunk>
 - Framework - <https://github.com/schell/mogwai>
 - Colors - <https://materialui.co/htmlcolors>
+
+## Develop
+
+- `trunk serve`
