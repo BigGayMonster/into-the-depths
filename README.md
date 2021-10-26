@@ -1,10 +1,10 @@
-# Into The Deep
+# Into The Depths
 
 A post-apocalyptic psychedelic kinky transformation adventure game
 
 ## Design
 
-<https://biggaygames.notion.site/Into-The-Deep-TF-Game-b8a119acc5f749f8bc1af8ecc9851f03>
+<https://www.notion.so/biggaygames/Into-The-Depths-TF-Game-b8a119acc5f749f8bc1af8ecc9851f03>
 
 ## Resources
 
